@@ -503,10 +503,5 @@ MTLumaDodgePillSettings
 MTLumaDodgePillStyleSettings
 MTLumaDodgePillView
 
-Default device → <AGXA14Device: 0x12a611000>
-    name = Apple A14 GPU
-name: Apple A14 GPU
-MTKView instance → <MTKView: 0x12cf8ec00; frame = (0 0; 0 0); layer = <CAMetalLayer: 0x12ccff630>>
-
 Testing importability of each class...
 ✅ Imported 503 classes
